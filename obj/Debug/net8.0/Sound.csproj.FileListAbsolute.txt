@@ -1,0 +1,14 @@
+C:\Users\Pichau\Desktop\Sound\bin\Debug\net8.0\Sound.exe
+C:\Users\Pichau\Desktop\Sound\bin\Debug\net8.0\Sound.deps.json
+C:\Users\Pichau\Desktop\Sound\bin\Debug\net8.0\Sound.runtimeconfig.json
+C:\Users\Pichau\Desktop\Sound\bin\Debug\net8.0\Sound.dll
+C:\Users\Pichau\Desktop\Sound\bin\Debug\net8.0\Sound.pdb
+C:\Users\Pichau\Desktop\Sound\obj\Debug\net8.0\Sound.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\Desktop\Sound\obj\Debug\net8.0\Sound.AssemblyInfoInputs.cache
+C:\Users\Pichau\Desktop\Sound\obj\Debug\net8.0\Sound.AssemblyInfo.cs
+C:\Users\Pichau\Desktop\Sound\obj\Debug\net8.0\Sound.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Desktop\Sound\obj\Debug\net8.0\Sound.dll
+C:\Users\Pichau\Desktop\Sound\obj\Debug\net8.0\refint\Sound.dll
+C:\Users\Pichau\Desktop\Sound\obj\Debug\net8.0\Sound.pdb
+C:\Users\Pichau\Desktop\Sound\obj\Debug\net8.0\Sound.genruntimeconfig.cache
+C:\Users\Pichau\Desktop\Sound\obj\Debug\net8.0\ref\Sound.dll

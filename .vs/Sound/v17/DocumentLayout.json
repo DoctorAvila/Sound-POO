@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Pichau\\Desktop\\Sound\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4748E9D5-10C5-4AB4-81B8-6955B5B9F83A}|Sound.csproj|c:\\users\\pichau\\desktop\\sound\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4748E9D5-10C5-4AB4-81B8-6955B5B9F83A}|Sound.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4748E9D5-10C5-4AB4-81B8-6955B5B9F83A}|Sound.csproj|c:\\users\\pichau\\desktop\\sound\\podcast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4748E9D5-10C5-4AB4-81B8-6955B5B9F83A}|Sound.csproj|solutionrelative:podcast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4748E9D5-10C5-4AB4-81B8-6955B5B9F83A}|Sound.csproj|c:\\users\\pichau\\desktop\\sound\\episodio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4748E9D5-10C5-4AB4-81B8-6955B5B9F83A}|Sound.csproj|solutionrelative:episodio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4748E9D5-10C5-4AB4-81B8-6955B5B9F83A}|Sound.csproj|c:\\users\\pichau\\desktop\\sound\\banda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4748E9D5-10C5-4AB4-81B8-6955B5B9F83A}|Sound.csproj|solutionrelative:banda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4748E9D5-10C5-4AB4-81B8-6955B5B9F83A}|Sound.csproj|c:\\users\\pichau\\desktop\\sound\\musica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4748E9D5-10C5-4AB4-81B8-6955B5B9F83A}|Sound.csproj|solutionrelative:musica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4748E9D5-10C5-4AB4-81B8-6955B5B9F83A}|Sound.csproj|c:\\users\\pichau\\desktop\\sound\\album.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4748E9D5-10C5-4AB4-81B8-6955B5B9F83A}|Sound.csproj|solutionrelative:album.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Episodio.cs",
+              "DocumentMoniker": "C:\\Users\\Pichau\\Desktop\\Sound\\Episodio.cs",
+              "RelativeDocumentMoniker": "Episodio.cs",
+              "ToolTip": "C:\\Users\\Pichau\\Desktop\\Sound\\Episodio.cs",
+              "RelativeToolTip": "Episodio.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAgwBMAAAB0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T11:05:52.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Podcast.cs",
+              "DocumentMoniker": "C:\\Users\\Pichau\\Desktop\\Sound\\Podcast.cs",
+              "RelativeDocumentMoniker": "Podcast.cs",
+              "ToolTip": "C:\\Users\\Pichau\\Desktop\\Sound\\Podcast.cs",
+              "RelativeToolTip": "Podcast.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwBUAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T10:57:42.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Banda.cs",
+              "DocumentMoniker": "C:\\Users\\Pichau\\Desktop\\Sound\\Banda.cs",
+              "RelativeDocumentMoniker": "Banda.cs",
+              "ToolTip": "C:\\Users\\Pichau\\Desktop\\Sound\\Banda.cs",
+              "RelativeToolTip": "Banda.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAQwBEAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T10:57:50.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Album.cs",
+              "DocumentMoniker": "C:\\Users\\Pichau\\Desktop\\Sound\\Album.cs",
+              "RelativeDocumentMoniker": "Album.cs",
+              "ToolTip": "C:\\Users\\Pichau\\Desktop\\Sound\\Album.cs",
+              "RelativeToolTip": "Album.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T11:33:01.146Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Musica.cs",
+              "DocumentMoniker": "C:\\Users\\Pichau\\Desktop\\Sound\\Musica.cs",
+              "RelativeDocumentMoniker": "Musica.cs",
+              "ToolTip": "C:\\Users\\Pichau\\Desktop\\Sound\\Musica.cs",
+              "RelativeToolTip": "Musica.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAxwA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T11:14:58.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Pichau\\Desktop\\Sound\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Pichau\\Desktop\\Sound\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T11:10:38.517Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
