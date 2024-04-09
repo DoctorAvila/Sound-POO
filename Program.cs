@@ -15,4 +15,6 @@ Podcast podcast1 = new Podcast("Flow espacial", "Igor 3K");
 podcast1.AdicionarEpisodio(ep1);
 podcast1.AdicionarEpisodio(ep2);
 
+
+//oi
 podcast1.ExibirDetalhes();
